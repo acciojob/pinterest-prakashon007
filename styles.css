@@ -6,7 +6,8 @@
 }
 img{
 	width:20rem;
-	height:15rem
+	height:15rem;
+	object-fit:cover;
 }
 .container{
 	text-align:center;
