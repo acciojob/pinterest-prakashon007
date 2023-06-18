@@ -1,1 +1,18 @@
 /*  your css code here. If applicable */
+
+.hero{
+	display:flex;
+	gap:10px;
+}
+img{
+	width:20rem;
+	height:15rem
+}
+.container{
+	text-align:center;
+}
+button{
+	background:red;
+	border-radius:5px;
+	color:white;
+}
